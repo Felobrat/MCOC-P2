@@ -63,6 +63,7 @@ Para rediseñar se forzó la ecuación de fluencia para que cumpla con la condic
 El desplazamiento vertical máximo antes del rediseño es de -1,042e-4 metros correspondiente al nodo 5.
 El desplazamiento vertical máximo antes del rediseño es de -0,0016 metros correspondiente al nodo 1.
 
+Dado que se flexibilizan las barras que sostienen la platafomra, se observa que la bajada de los nodos es mayor, despues de disminuir las secciones. 
 
 
 ## 5)
